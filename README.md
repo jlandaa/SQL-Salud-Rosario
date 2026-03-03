@@ -9,7 +9,8 @@ El proyecto utiliza **SQL (Databricks / Spark SQL)** para resolver desafíos rea
 ## 📊 El Modelo de Negocio
 
 
-[DER-Salud](https://github.com/user-attachments/assets/b86a2a0c-44e7-47d9-b12a-3f2d45dee9f9)
+
+![DER-Salud](https://github.com/user-attachments/assets/e4236ecb-1e9d-410b-aed1-0075746e49cc)
 
 
 El análisis se centra en la capacidad operativa, la demanda de servicios y la demografía de la población atendida. El esquema de datos incluye:

@@ -1,4 +1,7 @@
 # SQL-Salud-Rosario
+![Status: Maintained](https://img.shields.io/badge/Status-Maintained-brightgreen?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 Práctica de SQL sobre Databricks. Enunciados brindados por la empresa Lovelytics.
 
 ## 🏥 Sobre el Proyecto
